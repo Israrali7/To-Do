@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: linear-gradient(87deg,#e29f83,#2c465d);
+}
+input, button {
+    margin: 10px 0;
+    padding: 1rem;
+    font-weight: bold;
+    font-size: large;
+}
+li{
+    font-style: italic;
+    font-size: x-large;
+}
+.head{
+    width: 100%;
+    background-color: #f1c8b7;
+    height: 080px;
+    color: #3b6387;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight:  bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+}
